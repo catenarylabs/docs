@@ -4,8 +4,8 @@
    "name": "Pagrin",
    "colors": {
       "primary": "#6f45f3",
-      "light": "#07C983",
-      "dark": "#15803D"
+      "light": "#6f45f3",
+      "dark": "#6f45f3"
    },
    "favicon": "/logo/image1.png",
    "navigation": {
