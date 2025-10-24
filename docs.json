@@ -36,8 +36,8 @@
       ],
       "primary": {
          "type": "button",
-         "label": "Sign Up",
-         "href": "https://app.pagrin.com"
+         "label": "Back to Website",
+         "href": "https://pagrin.com"
       }
    },
    "contextual": {
