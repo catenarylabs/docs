@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/imag1.png",
+    "dark": "/logo/image1.png"
   },
   "navbar": {
     "links": [
@@ -114,9 +114,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/pagrin_",
+      "github": "https://github.com/catenarylabs",
+      "linkedin": "https://linkedin.com/company/pagrin"
     }
   }
 }
